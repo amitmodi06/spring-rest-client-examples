@@ -7,13 +7,13 @@ import java.util.List;
  */
 public class UserData {
 
-    List<User> users;
+    List<User> data;
 
-    public List<User> getUsers() {
-        return users;
+    public List<User> getData() {
+        return data;
     }
 
-    public void setUsers(List<User> users) {
-        this.users = users;
+    public void setData(List<User> data) {
+        this.data = data;
     }
 }
