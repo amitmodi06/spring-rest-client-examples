@@ -1,4 +1,4 @@
-package main.java.amit.springframework.springrestclientexamples;
+package amit.springframework.springrestclientexamples;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
